@@ -3,6 +3,8 @@
 
 # Musica-A
 
+https://pypi.org/project/Musica-A/
+
 play music in python gui
 takes a cue from pygame for a simpler version
 
